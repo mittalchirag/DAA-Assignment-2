@@ -1,2 +1,12 @@
 # DAA-Assignment-2
-Solution to programming questions in part B
+
+All the questions are in the PDF file attatched in the repository
+
+The solution to the problems are done in C programming language
+
+#### To run the program (machine should have gcc):
+```bash
+gcc "questionNumber".c -o questionNumber
+./"questionNumber"
+```
+Replace "questionNumber" by the number of question.
